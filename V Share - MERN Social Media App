@@ -1,0 +1,23 @@
+V Share is a full-stack social media application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can register, log in, create posts, connect with friends, and interact in a modern, responsive UI.
+
+Features:
+User registration and login with JWT authentication
+Email verification and password reset
+Create, edit, and delete posts
+Like, comment, and interact with posts
+Friend requests and user profiles
+Responsive design with Tailwind CSS
+
+
+Tech Stack:
+Frontend: React, Redux, React Router, Tailwind CSS
+Backend: Node.js, Express.js, MongoDB (Mongoose)
+Email: Nodemailer, Outlook SMTP
+Getting Started
+
+
+Prerequisites:
+Node.js and npm
+MongoDB Atlas account (or local MongoDB)
+Git
+
